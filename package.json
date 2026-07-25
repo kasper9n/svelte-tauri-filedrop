@@ -53,10 +53,10 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/probablykasper/svelte-tauri-filedrop.git"
+		"url": "git+https://github.com/kasper9n/svelte-tauri-filedrop.git"
 	},
 	"bugs": {
-		"url": "https://github.com/probablykasper/svelte-tauri-filedrop/issues"
+		"url": "https://github.com/kasper9n/svelte-tauri-filedrop/issues"
 	},
 	"author": {
 		"name": "Kasper Henningsen",
